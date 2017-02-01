@@ -16,7 +16,7 @@ parameters2 = np.zeros((1,4))
 parameters2[0,0] = 8000.
 parameters2[0,1] = 1.0 
 parameters2[0,2] = 1
-parameters2[0,3] = 200.
+parameters2[0,3] = 200. #tl.grid output data range.
 ##############
 parameters3 = np.zeros((1,4))
 parameters3[0,0] = 1600.
